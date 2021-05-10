@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_foo" label="Foo" language="en" table="sn_vdr_risk_asmt_assessment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_foo</element>
+            <help/>
+            <hint/>
+            <label>Foo</label>
+            <language>en</language>
+            <name>sn_vdr_risk_asmt_assessment</name>
+            <plural>Foos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-10 14:34:48</sys_created_on>
+            <sys_id>7005731187c07c50218bb9d7cebb357e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Foo</sys_name>
+            <sys_package display_value="VRM Table Changes" source="e604ff5d87807c50218bb9d7cebb35d9">e604ff5d87807c50218bb9d7cebb35d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VRM Table Changes">e604ff5d87807c50218bb9d7cebb35d9</sys_scope>
+            <sys_update_name>sys_documentation_sn_vdr_risk_asmt_assessment_u_foo_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-10 14:34:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
